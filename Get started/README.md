@@ -1,4 +1,4 @@
-[Docs](/) » Get started
+[Docs](../) » Get started
 
 ---
 
