@@ -3,6 +3,8 @@
 
 译者注：
 
+1. Github Markdown 预览下大部分超链接会失效（为了适应 GitHub Pages 而不得不牺牲的策略），所以，强烈建议各位读者在 <https://fmw666.github.io/Steamlit-translate-to-zh-CN/> 进行阅读。
+
 1. 本次项目的翻译仅个人爱好所作，并不带有任何商业行为，也杜绝任何未经许可的摘抄者用于其个人利益。
 
 1. 本次项目仅作翻译，以供中文读者能更好的阅读。详情内容或权威性文章请参考原项目 <https://docs.streamlit.io/>
