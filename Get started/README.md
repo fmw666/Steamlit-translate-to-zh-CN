@@ -1,4 +1,4 @@
-[Docs](../) » Get started
+[Docs](../README.md) » Get started
 
 ---
 
